@@ -1,0 +1,1 @@
+Projeto em React de cadastro de usuários utilizando como base de dados um arquivo json com as 4 principais funções: consulta, atualização, criação e destruição
